@@ -1,4 +1,4 @@
-#include <stdio.h>
+/* #include <stdio.h>
 #include <string.h>
 
 char choice[];
@@ -30,3 +30,4 @@ int main() {
 
   return 0;
 }
+ */
