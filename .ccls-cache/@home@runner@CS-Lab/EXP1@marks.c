@@ -1,4 +1,4 @@
-#include <stdio.h>
+/* #include <stdio.h>
 
 
 char name[];
@@ -35,4 +35,4 @@ int main(void) {
   printf("Avg Marks: %.2f\n", avg);
 
   return 0;
-}
+} */
