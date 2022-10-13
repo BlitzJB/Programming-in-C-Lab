@@ -1,4 +1,4 @@
-#include <stdio.h>
+/* #include <stdio.h>
 
 float BP, DA, HRA, CCA, insurance, PF, gross_pay, deductions, net_pay;
 
@@ -15,4 +15,4 @@ int main(void) {
   net_pay = gross_pay - deductions;
   printf("Net Pay: %.2f", net_pay);
   return 0;
-}
+} */
